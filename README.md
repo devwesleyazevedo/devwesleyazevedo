@@ -5,9 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
   
-  <div>
-    <img src="https://camo.githubusercontent.com/9d55d2a22b4639001a7585df1643c8cddc695cec9bc6c6401e00e4d64fc04c78/68747470733a2f2f69322e77702e636f6d2f696c6f7665636f64652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f706f73745f6f6b2e6769663f6669743d3230302532433230392673736c3d31" />
-  </div>
 
   
   ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
