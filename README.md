@@ -10,8 +10,8 @@
 </div><br>
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devwesleyazevedo&show_icons=true&theme=dracula&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwesleyazevedo)](https://github.com/devwesleyazevedo/github-readme-stats)
 
 
 <div align="center" valign="top"><br>
