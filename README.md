@@ -11,7 +11,8 @@
 
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devwesleyazevedo)](https://github.com/devwesleyazevedo/github-readme-stats)
+  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+
 </div>
 
 
