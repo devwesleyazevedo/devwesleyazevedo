@@ -1,5 +1,5 @@
 <div>
-  <h2 align="center">Oi Tudo bem? Eu sou oaaaa <a href="https://github.com/devwesleyazevedo"><i>Wesley Azevedo</i></a> 😃️</h2>
+  <h2 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/devwesleyazevedo"><i>Wesley Azevedo</i></a> 😃️</h2>
 
 
 <p align="center">Estudo Análise e Desenvolvimento de Sistemas no centro universitário UNA <br> e compartilho meus conhecimentos como desenvolvedor web na 
