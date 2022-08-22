@@ -10,10 +10,6 @@
 </div><br>
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devwesleyazevedo&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwesleyazevedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <div align="center">
   <a href="https://github.com/devwesleyazevedo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devwesleyazevedo&show_icons=true&theme=dracula&count_private=true"/>
