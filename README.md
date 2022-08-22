@@ -13,6 +13,16 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devwesleyazevedo&show_icons=true&theme=dracula&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devwesleyazevedo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
 <div align="center" valign="top"><br>
   <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" style="margin-right: 5px;">
   <img align="center" alt="github" height="35" width="35" src="https://ps.w.org/fancy-elementor-flipbox/assets/icon-256x256.png?rev=1996709">
