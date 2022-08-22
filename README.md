@@ -1,4 +1,5 @@
 <div>
+  <img src="/assets/perfil.png" />
   <h2 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/devwesleyazevedo"><i>Wesley Azevedo</i></a> 😃️</h2>
 
 
