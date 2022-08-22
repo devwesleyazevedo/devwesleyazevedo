@@ -1,6 +1,6 @@
 <div align="center" valign="top">
   <img align="center"  width="100" src="/assets/perfil.png">
-  <h2 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/devwesleyazevedo"><i>Wesley Azevedo</i></a> 😃️</h2>
+  <h3 align="center">Oi Tudo bem? <br> Eu sou o <a href="https://github.com/devwesleyazevedo"><i>Wesley Azevedo</i></a> 😃️</h3>
 
 
 <p align="center">Estudo Análise e Desenvolvimento de Sistemas no centro universitário UNA <br> e compartilho meus conhecimentos como desenvolvedor web na 
