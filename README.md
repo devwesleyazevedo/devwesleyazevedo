@@ -1,5 +1,6 @@
 <div align="center" valign="top">
   <h3 align="center">Oi👋, eu sou Wesley Azevedo</h3>
+  <h6>Desenvolvedor front-end e back-end com foco em desenvolvimento web.</h6>
 </div>
 <br>
 
