@@ -6,7 +6,7 @@
 <p align="center">Estudo Análise e Desenvolvimento de Sistemas no centro universitário UNA <br> e compartilho meus conhecimentos como desenvolvedor web na 
   <a  target="_blank" href="https://meltcomunicacao.com.br/"><i>Melt Comunicação</i></a>.
   <br><br>
-  Também trabalho como freela na <a  target="_blank" href="https://yeto.com.br/"><i>Yeto Development</i></a> & na <a  target="_blank" href="https://www.99freelas.com.br/user/wesley.azevedo"><i>99freelas</i></a>.
+  Também trabalho como freela na <a  target="_blank" href="https://yeto.com.br/"><i>Yeto Development</i></a> &  <a  target="_blank" href="https://www.99freelas.com.br/user/wesley.azevedo"><i>99freelas</i></a>.
 </p>
 
 
