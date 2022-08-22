@@ -8,6 +8,7 @@
   </p>
 </div><br>
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
 
 <div align="center">
   <a href="https://github.com/devwesleyazevedo">
