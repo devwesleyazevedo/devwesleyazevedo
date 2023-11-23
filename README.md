@@ -74,13 +74,13 @@ Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `De
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://cubos.academy/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://www.una.br/)
 **Análise e Desenvolvimento de Sistemas** \
-[**Cubos Academy**](https://cubos.academy/) \
+[**UNA**](https://www.una.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Java`
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/israelltulio/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wesleyazevedocaetano/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
 
