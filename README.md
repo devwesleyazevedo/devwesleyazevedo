@@ -75,7 +75,7 @@ Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `De
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://cubos.academy/)
-**Software Developer** \
+**Analysis and Systems Development** \
 [**Cubos Academy**](https://cubos.academy/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `PostgreSQL`
