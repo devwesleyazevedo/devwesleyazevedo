@@ -50,16 +50,16 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
 **Desenvolvedor Web** \
 [**Buysoft**](https://buysoft.com.br/) • Noturno \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+Competências: `Personalização e Design Exclusivo`, `Versatilidade em Projetos Web`, `Design Responsivo e Intuitivo`, 
+<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/158r7pYv/meltcomunicacao-logo.jpg"/>](https://meltcomunicacao.com.br/)
 **Desenvolvedor Web** \
-[**Buysoft**](https://buysoft.com.br/) • Noturno \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+[**Melt Comunicação**](https://buysoft.com.br/) • Noturno \
+Competências: `Personalização e Design Exclusivo`, `Versatilidade em Projetos Web`, `Design Responsivo e Intuitivo`, 
+<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`
 
 ##
 
