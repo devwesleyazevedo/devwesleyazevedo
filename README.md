@@ -57,7 +57,7 @@ Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `De
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/gr952dM7/head2-logo.jpg"/>](https://head2.com.br/)
 **Desenvolvedor Web** \
-[**Head2**](https://buysoft.com.br/) • Full-time \
+[**Head2**](https://head2.com.br/) • Full-time \
 Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
 <br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
 
@@ -74,7 +74,7 @@ Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `De
 #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/5t8v5X6F/Cubos-Academy.png"/>](https://cubos.academy/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://cubos.academy/)
 **Software Developer** \
 [**Cubos Academy**](https://cubos.academy/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `DOM`, `JavaScript`, `React.js`, `TypeScript`
