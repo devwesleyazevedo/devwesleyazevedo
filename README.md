@@ -50,8 +50,9 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
 **Desenvolvedor Web** \
 [**Buysoft**](https://buysoft.com.br/) • Noturno \
-Competências: `Personalização e Design Exclusivo`, `Versatilidade em Projetos Web`, `Design Responsivo e Intuitivo`, 
-<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`, `Otimização para SEO e Imagens`, `Segurança Web e Boas Práticas`, `Proficiência em Elementor e WordPress`
+Competências: `Maestria em Desenvolvimento Web`, `Personalização`, `Design Responsivo`, 
+<br/>  `Otimização em Geral`, `Segurança Web`, `Boas Práticas`, 
+<br/>  `Proficiência em Elementor e WordPress`
 
 ##
 
