@@ -1,12 +1,12 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## Hello, Devs!! 👋
-### O meu nome é Israel, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+### O meu nome é Wesley, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-- 🔰  Sou de Porto Velho/RO, Brasil
-- ⚡ Apaixonado por Música e Tecnologia
-- 🧠 Estudante de Desenvolvimento de Software na Cubos Academy
-- 🏦 Atualmente trabalho como Analista de Estratégia e Inovação na UzziPay, uma Instituição de Pagamentos com Sede em Porto Velho/RO e São Paulo/SP
+- 🔰 Sou de Contagem/MG, Brasil
+- ⚡ Apaixonado por Jogos e Tecnologia
+- 🧠 Sempre absorvendo as mais recentes tecnologias.
+- 🏦 Atualmente, atuo como Desenvolvedor Web na Buysoft, uma empresa líder em soluções e licenciamento de software para negócios no Brasil e na Colômbia. Além disso, colaboro como Desenvolvedor na Head2, uma agência de comunicação. 
 
 ##
 
