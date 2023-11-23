@@ -78,16 +78,15 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 **Análise e Desenvolvimento de Sistemas** \
 [**UNA**](https://www.una.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Java`
+<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `APIs`, `APIs Rest`, `SQL`, `Java`
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://www.una.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/6TJMrcxb/unnamed.png"/>](https://www.udemy.com/)
 **Desenvolvimento Web Completo** \
-[**UNA**](https://www.una.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Java`
-
+[**Udemy**](https://www.udemy.com/) \
+Linguagens & Tecnologias - Front-end: `HTML5`, `CSS3`, `SASS`, `Bootstrap`, `JS`, `ES6`
+<br/>Linguagens & Tecnologias - Back-end: `PHP`, `MySQL`, `JavaScript`, `APIs Rest`, `SQL`
 ##
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/P5qSmPgj/1630533802333.jpg"/>](https://sujeitoprogramador.com/)
