@@ -103,6 +103,8 @@ Linguagens & Tecnologias - Front-end: `React.js`, `ReactJS`, `TypeScript`
 Linguagens & Tecnologias - Front-end: `React.js`, `ReactJS`, `TypeScript`
 <br/>Linguagens & Tecnologias - Back-end: `Hooks`, `Router`, `API`, 
 
+##
+
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wesleyazevedocaetano/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 ##
