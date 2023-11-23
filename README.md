@@ -50,15 +50,14 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
 **Desenvolvedor Web** \
 [**Buysoft**](https://buysoft.com.br/) • Noturno \
-Competências: `Maestria em Desenvolvimento Web`, `Personalização`, `Design Responsivo`, 
-<br/>  `Otimização em Geral`, `Segurança Web`, `Boas Práticas`, 
-<br/>  `Proficiência em Elementor e WordPress`
+Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
+<br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
 
 ##
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/158r7pYv/meltcomunicacao-logo.jpg"/>](https://meltcomunicacao.com.br/)
 **Desenvolvedor Web** \
-[**Melt Comunicação**](https://buysoft.com.br/) • Noturno \
+[**Melt Comunicação**](https://buysoft.com.br/) • Full-time \
 Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
 <br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
 
