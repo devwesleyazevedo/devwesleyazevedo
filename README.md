@@ -55,9 +55,17 @@ Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `De
 
 ##
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/gr952dM7/head2-logo.jpg"/>](https://head2.com.br/)
+**Desenvolvedor Web** \
+[**Head2**](https://buysoft.com.br/) • Full-time \
+Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
+<br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
+
+##
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/158r7pYv/meltcomunicacao-logo.jpg"/>](https://meltcomunicacao.com.br/)
 **Desenvolvedor Web** \
-[**Melt Comunicação**](https://buysoft.com.br/) • Full-time \
+[**Melt Comunicação**](https://meltcomunicacao.com.br/) • Full-time \
 Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
 <br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
 
