@@ -82,6 +82,9 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `
 
 ##
 
+#### Licenças e certificados:
+Na visão geral abaixo você encontrará minha licenças e certificados:
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/6TJMrcxb/unnamed.png"/>](https://www.udemy.com/)
 **Desenvolvimento Web Completo** \
 [**Udemy**](https://www.udemy.com/) \
