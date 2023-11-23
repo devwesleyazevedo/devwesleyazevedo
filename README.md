@@ -47,9 +47,17 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
-**Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
+**Desenvolvedor Web** \
+[**Buysoft**](https://buysoft.com.br/) • Noturno \
+Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
+<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+
+##
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/sfqV7zFv/buysoft-logo.jpg"/>](https://buysoft.com.br/)
+**Desenvolvedor Web** \
+[**Buysoft**](https://buysoft.com.br/) • Noturno \
 Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
 <br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
 
