@@ -90,19 +90,19 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/6qTkjYS9/Udemy-Simbolo.png"/>](https://www.una.br/)
-**Fabrica de Aplicativos - React native** \
-[**UNA**](https://www.una.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Java`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/P5qSmPgj/1630533802333.jpg"/>](https://sujeitoprogramador.com/)
+**ReactJS & React native** \
+[**Sejeito Programador**](https://sujeitoprogramador.com/) \
+Linguagens & Tecnologias - Front-end: `React.js`, `ReactJS`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `Hooks`, `Router`, `API`, 
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://www.una.br/)
-**React do Zero a Maestria (c/ hooks, router, API, Projetos)** \
-[**UNA**](https://www.una.br/) \
-Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
-<br/>Linguagens & Tecnologias - Back-end: `JavaScript`, `Node.js`, `APIs Rest`, `SQL`, `Java`
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/6TJMrcxb/unnamed.png"/>](https://www.udemy.com/)
+**ReactJS & React native** \
+[**Udemy**](https://www.udemy.com/) \
+Linguagens & Tecnologias - Front-end: `React.js`, `ReactJS`, `TypeScript`
+<br/>Linguagens & Tecnologias - Back-end: `Hooks`, `Router`, `API`, 
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/wesleyazevedocaetano/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
