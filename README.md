@@ -59,8 +59,8 @@ Competências: `Maestria em Desenvolvimento Web`, `Personalização`, `Design Re
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/158r7pYv/meltcomunicacao-logo.jpg"/>](https://meltcomunicacao.com.br/)
 **Desenvolvedor Web** \
 [**Melt Comunicação**](https://buysoft.com.br/) • Noturno \
-Competências: `Personalização e Design Exclusivo`, `Versatilidade em Projetos Web`, `Design Responsivo e Intuitivo`, 
-<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`
+Competências: `Proficiência em Elementor e WordPress`, `Personalização`, `Design Responsivo`, 
+<br/> `Otimização em Geral`, `Segurança Web`, `Boas Práticas`
 
 ##
 
