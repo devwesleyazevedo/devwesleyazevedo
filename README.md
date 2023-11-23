@@ -6,7 +6,7 @@
 - 🔰 Sou de Contagem/MG, Brasil
 - ⚡ Apaixonado por Jogos e Tecnologia
 - 🧠 Sempre absorvendo as mais recentes tecnologias.
-- 🏦 Atualmente, atuo como Desenvolvedor Web na Buysoft, uma empresa líder em soluções e licenciamento de software para negócios no Brasil e na Colômbia. Além disso, colaboro como Desenvolvedor na Head2, uma agência de comunicação. 
+- 🏦 Atualmente, atuo como Desenvolvedor Web na Buysoft no Brasil e na Colômbia. Além disso, colaboro como Desenvolvedor Web na Head2, uma agência de comunicação. 
 
 ##
 
