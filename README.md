@@ -51,7 +51,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Web** \
 [**Buysoft**](https://buysoft.com.br/) • Noturno \
 Competências: `Personalização e Design Exclusivo`, `Versatilidade em Projetos Web`, `Design Responsivo e Intuitivo`, 
-<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`
+<br/> `Atualização Contínua com Tendências Tecnológicas`, `Maestria em Desenvolvimento Web`, `Otimização para SEO e Imagens`, `Segurança Web e Boas Práticas`, `Proficiência em Elementor e WordPress`
 
 ##
 
