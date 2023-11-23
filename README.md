@@ -90,7 +90,7 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `
 
 ##
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dVCCCF5B/244522440-4419761598111957-1788281486592715192-n.jpg"/>](https://www.una.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/6qTkjYS9/Udemy-Simbolo.png"/>](https://www.una.br/)
 **Fabrica de Aplicativos - React native** \
 [**UNA**](https://www.una.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`, `React.js`, `ReactJS`, `TypeScript`
